@@ -1,0 +1,118 @@
+<mxfile host="Electron" modified="2023-04-17T19:24:06.196Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="2nctr0HQWXwrLRqXP_Xb" version="21.1.2" type="device">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="2670" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l4BH8Qb4TCgGhWrImsFW-1" value="Дерево&amp;nbsp; цілей&lt;br style=&quot;font-size: 32px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
+          <mxGeometry x="250" y="10" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tREejhca9A42xGjIm0O4-2" target="tREejhca9A42xGjIm0O4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-2" target="SShkpIZHBbvdHp0iyeEo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-2" target="SShkpIZHBbvdHp0iyeEo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-2" value="Конструкція" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tREejhca9A42xGjIm0O4-3" target="tREejhca9A42xGjIm0O4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tREejhca9A42xGjIm0O4-3" target="tREejhca9A42xGjIm0O4-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tREejhca9A42xGjIm0O4-3" target="tREejhca9A42xGjIm0O4-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-3" value="Розумний фотоштатив" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-5" target="tREejhca9A42xGjIm0O4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-5" target="tREejhca9A42xGjIm0O4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-5" target="SShkpIZHBbvdHp0iyeEo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-5" value="Програмне забезпечення" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-6" target="SShkpIZHBbvdHp0iyeEo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-6" target="tREejhca9A42xGjIm0O4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-6" value="Електроніка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-7" target="tREejhca9A42xGjIm0O4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-7" value="Виготовити прототип" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-8" target="tREejhca9A42xGjIm0O4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-8" target="tREejhca9A42xGjIm0O4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-8" value="Зробити модель" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-9" value="Написати драйвери" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-10" value="Написати основну програму" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-11" target="SShkpIZHBbvdHp0iyeEo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-11" target="SShkpIZHBbvdHp0iyeEo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tREejhca9A42xGjIm0O4-11" target="tREejhca9A42xGjIm0O4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-11" value="Скласти електричну схему" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-12" value="Спаяти схему на платі" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-19" value="Перевірити прототип" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tREejhca9A42xGjIm0O4-21" value="Виготовити завершену модель" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-13" value="Перевірити програму" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-15" value="Закупити деталі" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-17" value="Закупити пластик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-19" value="Закупити інші деталі" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-26" value="Перевірити її на макетній платі" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SShkpIZHBbvdHp0iyeEo-28" value="Купити книгу про схемотехніку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
